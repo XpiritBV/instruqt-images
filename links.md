@@ -11,3 +11,5 @@
 ![](azdo-logo.png)
 
 ![](azdo-logo-no-text.png)
+
+![](clone-repo.png)
